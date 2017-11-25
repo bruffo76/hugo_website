@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, or `dark`.
-  color_theme = "default"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -47,12 +47,12 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Università di Torino", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "portrait3.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "raffaele.argiento@unito.ot"
+  address = "Corso Unione Sovietica 218B, 10134, Torino. Office 3.19 -- third floor"
+ # office_hours = " "
+  phone = "+39 11 670 6095"
+  skype = "bruffo"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -91,7 +91,7 @@ defaultContentLanguageInSubdir = false
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
   reading_time = false
@@ -182,7 +182,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 1
 
   # Social/Academic Networking
   #

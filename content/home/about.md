@@ -10,12 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Bayesian Statistics",
+    "Bayesian Nonparametrix",
+    "Comutational Statistics"
   ]
 
+#PLUTO
+[[education.courses]]
+course="prova"
+institution="provolina"
+year="1234"
+
+
+
 # List your qualifications (such as academic degrees).
+
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
   institution = "Stanford University"
@@ -35,6 +44,10 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm assistant professor of Statistics at University of Torino. I work in the areas of Bayesian statistics, both parametric and nonparametric see below for more information. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+# Affiliations
+Assistant professor at ESOMAS department of the University of Torino.
+Member of the de Castro Statistics initiative@Collegio Carlo Alberto Torino.
+Associated to Italian national council of research CNR-IMATI, Milano.
